@@ -1,0 +1,17 @@
+Bob|A
+Joe|A
+Mary|A
+Adam|B
+Adam|D
+Eve|B
+Eve|D
+Bob|C
+Mary|C
+Mary|F
+Sue|F
+Sue|C
+Sue|E
+Han|E
+Han|C
+Sue|G
+Jinhan|G
